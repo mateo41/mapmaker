@@ -1,0 +1,56 @@
+Backing up 'web.config' to '\_93upgradebackup
+Added 'esri' tagPrefix to web.config.
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.UI.WebControls' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Geometry' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Server' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Geodatabase' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Carto' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Connection' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.System' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources.Graphics' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Tasks' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources.ArcGISServer' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.DataSourcesOleDB' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.ArcGISServer' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.DataSourcesGDB' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Display' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Location' in 'web.config'
+Backing up file 'JavaScript\WebMapApp.js' to '\_93upgradebackup'.
+Replacing file 'JavaScript\WebMapApp.js'.
+Upgrading Identify tool...
+Backing up file 'App_Code\MapIdentify.cs' to '\_93upgradebackup'.
+Replacing file 'App_Code\MapIdentify.cs'.
+Backing up file 'App_Code\MapIdentifyControl.cs' to '\_93upgradebackup'.
+Replacing file 'App_Code\MapIdentifyControl.cs'.
+Backing up file 'JavaScript\MapIdentify.js' to '\_93upgradebackup'.
+Replacing file 'JavaScript\MapIdentify.js'.
+Backing up file 'images\callbackActivityIndicator2.gif' to '\_93upgradebackup'.
+Replacing file 'images\callbackActivityIndicator2.gif'.
+Upgrading Measure tool...
+Backing up file 'JavaScript\display_measure.js' to '\_93upgradebackup'.
+Replacing file 'JavaScript\display_measure.js'.
+Backing up file 'images\crosshair.png' to '\_93upgradebackup'.
+Replacing file 'images\crosshair.png'.
+Backing up file 'images\dropdown-button.png' to '\_93upgradebackup'.
+Replacing file 'images\dropdown-button.png'.
+Backing up file 'images\dismiss_solid.png' to '\_93upgradebackup'.
+Replacing file 'images\dismiss_solid.png'.
+Backing up file 'images\collapse.gif' to '\_93upgradebackup'.
+Replacing file 'images\collapse.gif'.
+Backing up file 'images\expand.gif' to '\_93upgradebackup'.
+Replacing file 'images\expand.gif'.
+Backing up file 'images\dismiss.png' to '\_93upgradebackup'.
+Replacing file 'images\dismiss.png'.
+9.3 upgrade complete.
+Backing up 'default.aspx' to '\_93upgradebackup
+Update version number in Default.aspx and Web.config.
+Updating Default.skin files.
+Removing ArcWeb Services.
+Removing FindPlace task.
+updating for 64 bit support.
+updating PageLayout.
+update ESRI.ArcGIS.ADF and ArcGISServer Converter to Local.Converter in .cs and .vb files.
+10.0 upgrade complete.

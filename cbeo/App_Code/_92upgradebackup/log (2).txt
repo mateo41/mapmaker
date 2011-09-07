@@ -1,0 +1,30 @@
+Backing up 'web.config' to '\_92upgradebackup'\web.config.bak
+Adding System.Web.Extensions assembly to web.config.
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.UI.WebControls' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Connection' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources.Graphics' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Tasks' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources.ArcGISServer' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.ArcGISServer' in 'web.config'
+Backing up file 'JavaScript\WebMapApp.js' to '\_92upgradebackup'.
+Replacing file 'JavaScript\WebMapApp.js'.
+Upgrading Identify tool...
+Backing up file 'App_Code\MapIdentify.cs' to '\_92upgradebackup'.
+Replacing file 'App_Code\MapIdentify.cs'.
+Adding file 'App_Code\MapIdentifyControl.cs'
+Adding file 'JavaScript\MapIdentify.js'
+Adding file 'images\callbackActivityIndicator2.gif'
+Upgrading Measure tool...
+Backing up file 'Measure.ascx' to '\_92upgradebackup'.
+Replacing file 'Measure.ascx'.
+Backing up file 'Measure.ascx.cs' to '\_92upgradebackup'.
+Replacing file 'Measure.ascx.cs'.
+Backing up file 'JavaScript\display_measure.js' to '\_92upgradebackup'.
+Replacing file 'JavaScript\display_measure.js'.
+Adding file 'images\crosshair.png'
+Adding file 'images\dropdown-button.png'
+Adding file 'images\dismiss_solid.png'
+9.3 upgrade complete.

@@ -1,0 +1,30 @@
+﻿<STORET>
+<Dimensions>
+	<LocalDateTime >
+		<DayOfYear>
+			<Member MemberName="1">  </Member>
+			<Member MemberName="2">  </Member>
+			<Member MemberName="3">  </Member>
+		</DayOfYear>
+	</LocalDateTime >
+	<Variables>
+		<SampleMedium> 
+			<Member MemberName="Air"> </Member>
+		</SampleMedium>
+	</Variables>
+</Dimensions>
+  <Cubes>
+    <Cube CubeName="STORETDATA" />
+  </Cubes>
+  <Measures>
+    <Measures>
+      <MeasuresLevel>
+        <Member MemberName="Cumulative" />
+        <Member MemberName="Count" />
+        <Member MemberName="MinimumValue" />
+        <Member MemberName="MaximumValue" />
+        <Member MemberName="Average" />
+      </MeasuresLevel>
+    </Measures>
+  </Measures>
+</STORET>
